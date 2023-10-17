@@ -1,0 +1,668 @@
+{
+    "codRpta": "0000",
+    "desRpta": "Respuesta Exitosa",
+    "detRpta": {
+        "leads": [
+            {
+                "presentation": {
+                    "title": "Tarjeta de crédito",
+                    "detail": "Tienes una tarjeta esperándote para disfrutar. Conoce cuál es.",
+                    "url": "interbank://internal/te-ofrecemos/tarjeta-credito/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/5a/5a599496-ef92-452d-9baa-8c58800fac2d/Tarjeta-de-Credito.png"
+                },
+                "transactionLead": "aGHXu3j3J8Xl/RRjxnJpfaVVjdSUtdpQLciBXDXbplSbdg5zZgv5Nj9iSV4qjLti2y7/rveUK8n1b6eV9p8g+rfJ2rHeK3YS+2orAfd5JNHcykNDu8aPTrCvEaaDVJiVK+g+j1bq+2GjmNxQhZf0P8Xx98Yj0FDkSROJicS2AQsQb3C/1YMIfzUkbrIa7yuGpO+DufHKhdLBjBCsfjHxabD376r1mGz55NHaDoOefLXu3Q+r0qeCD+KTWqbOqPNZicvXnjQlc4eyAYO45h/hQEtbau3O/qCyEJ+tXZGMNOpxBVWLeiHYBEAbrHQ8Wybs9Mcz73XNxzzEGrpjvzjYYw==",
+                "id": "1-FXR1-113",
+                "channelPriority": "1",
+                "amount": "60000",
+                "campaign": {
+                    "id": "1-488047",
+                    "code": "1-255675031",
+                    "number": "1-255675031",
+                    "name": "APP_VT_CAMP2019",
+                    "type": "TARJETA_CREDITO",
+                    "startDate": "03/15/2019 00:04:43",
+                    "endDate": "25/05/2118",
+                    "objective": "",
+                    "priority": "2 - Alta",
+                    "product": {
+                        "id": "1-1RCPBJ",
+                        "code": "399999999",
+                        "number": "399999999",
+                        "name": "TARJETA DE CREDITO",
+                        "core": "ADQ"
+                    }
+                },
+                "offer": {
+                    "id": "1-2UX5UW",
+                    "code": "1-172868072",
+                    "number": "1-172868072",
+                    "name": "TC 04/05/2017",
+                    "type": "01",
+                    "source": "SIEBEL",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "1-2UX5V2",
+                    "code": "1-172868078",
+                    "number": "1-172868078",
+                    "name": "TARJETA C 04/05/2017"
+                },
+                "detail": {
+                    "currencyCode": "604",
+                    "fmtAmount": "S/ 60,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "208",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "American Express® Platinum",
+                            "description": "Interbank American Express Platinum",
+                            "number": "",
+                            "mark": "02",
+                            "type": "08"
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Cuenta Sueldo",
+                    "detail": "Recibe tu sueldo en Interbank y disfruta de grandes beneficios.",
+                    "url": "interbank://internal/te-ofrecemos/cuenta-sueldo/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/50/503738cc-bea0-48ba-beba-37923f6cd504/Cuenta-Sueldo.png"
+                },
+                "transactionLead": "GnNG61ZkOkSFSWMYGs+LbsGrSwCHvQ8H0oeFfBOmsdmH8QOhwmZZM7fIFxo8WxmsytVpiaX17mX4WaphPjjttefL7OQvrhsR5l3GOV9GkgT7st6/Dxm1XP8kUFmweLIiqSkVOqsggicpY15xJOrwKju7XZT6cWJdY+1WPMfrZruNCIZQ351hXSTwoQof5mKRBu1W6wK77ZsQvBKZQ9gtYwIYpdZVUAZoVMauRPT5XLtMp2t+u1Zeago8ruO/nvuw5wcfBQEOshxMtLbD2aGDx1Z1T5QKDlQmRKlFVzVAN7kRQL7ZdjmbCgCJGikBmkB/jxuSDSegkuy9ox6y2OMT5w==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "CUENTA_SUELDO",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-7D8Q",
+                        "code": "",
+                        "number": "",
+                        "name": "CUENTA SUELDO",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 60,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Cuenta Súper Tasa",
+                    "detail": "Disfruta de una súper tasa al ahorrar con esta cuenta.",
+                    "url": "interbank://internal/te-ofrecemos/cuenta-supertasa/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/72/720402a6-4ac2-479e-a75a-64e59a719b0b/Cuenta-Super-Tasa.png"
+                },
+                "transactionLead": "o39DwswRvKMFJPHsGP+7QcaV9YY9gcrJNInYkzwg4aRkETPfNsQmVnKZhrr9hoOq+P14t+KKDMyyvH34lmklFaGZsUKJU3q+UhosUaRyXPi7UpJXxu9NfbdUjmB47nObjFadJUonHy8efFqCyXEWvapKnMX4z1Keuigf6TfJYbVTCXQhTbKvSPyrf13Jpx3+4JgnH4cLetJ/vc7B/RqLuWevTCVJBkbfbk6cs02jwyfsyAK0pc9f0rdlHT3eAkOaGPswwH8bwjEFVKeN+oAbTYPRtv9GNKo/LYqF898aBegrW0nCHrIkrA5Aef4kDq8fTl1E7l/+4mO6KHxnqV8OpA==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "CUENTA_SUPER_TASA",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-35L2997",
+                        "code": "",
+                        "number": "",
+                        "name": "CUENTA SUPER TASA",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 60,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Seguro de Tarjetas 360°",
+                    "detail": "Protección total física y digital para todas tus tarjetas",
+                    "url": "interbank://external/te-ofrecemos/seguro-360/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/90/90a7253e-c359-4640-aaf4-fbd8cd911430/Seguros-360.png"
+                },
+                "transactionLead": "Ddu9LpUv8zBYHVxRdwrkzU7FtO1IvAJukmQI1eJzuv9LJ8chowRDuBBd+jx+P6BvMpgl/RAszoGPYjf1Xcfjr0+XYkTzyAlVlzw5OvOgQyUQqnTZGmGrPtG/wCAXNRbISGIMjssn1De+tTSiQHALC92yzjVWO8frwz+gnZp+Bc3Wsli7aUXyZdw3OG9XoupddksUnjZ2a3Ymj5odz0W+HEHBTU83slnRkktVwaMCiLGUjIUd3mqy7anHMAC7c2SAGYBMjKNvUNwuc2IhrzdMTdQiTcRTC71/LFXhJThVekJQFuIKny9gklAWLnvudYwbdAnpGNz7YaWhY9Yp6ba2eg==",
+                "id": "1-FXR1-30",
+                "channelPriority": "12",
+                "amount": "0",
+                "campaign": {
+                    "id": "1-8BSI8D",
+                    "code": "1-503535181",
+                    "number": "1-503535181",
+                    "name": "VENTA_SEGURO_360_FEBRERO2022_RTD_CLOUD_UAT",
+                    "type": "SEGURO_360",
+                    "startDate": "02/04/2022 11:19:06",
+                    "endDate": "31/12/2025",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-46NJS1",
+                        "code": "P00055",
+                        "number": "P00055",
+                        "name": "SEGURO 360",
+                        "core": "JLT"
+                    }
+                },
+                "offer": {
+                    "id": "1-7M9KIM",
+                    "code": "1-460661278",
+                    "number": "1-460661278",
+                    "name": "OFERTA_SEGURO_360_RTD_UAT",
+                    "type": "",
+                    "source": "SIEBEL",
+                    "priority": "RTD",
+                    "description": "Oferta Seguro 360 para RTD"
+                },
+                "treatment": {
+                    "id": "1-7M9KJD",
+                    "code": "1-460661305",
+                    "number": "1-460661305",
+                    "name": "VENTA_SEGURO_360_RTD_UAT"
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 60,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Seguro Protección de créditos full",
+                    "detail": "Protégete en caso de despido o imprevistos.",
+                    "url": "interbank://external/te-ofrecemos/seguro-credito-full/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/90/90a7253e-c359-4640-aaf4-fbd8cd911430/Seguros-360.png"
+                },
+                "transactionLead": "Ddu9LpUv8zBYHVxRdwrkzU7FtO1IvAJukmQI1eJzuv9LJ8chowRDuBBd+jx+P6BvMpgl/RAszoGPYjf1Xcfjr0+XYkTzyAlVlzw5OvOgQyUQqnTZGmGrPtG/wCAXNRbISGIMjssn1De+tTSiQHALC92yzjVWO8frwz+gnZp+Bc3Wsli7aUXyZdw3OG9XoupddksUnjZ2a3Ymj5odz0W+HEHBTU83slnRkktVwaMCiLGUjIUd3mqy7anHMAC7c2SAGYBMjKNvUNwuc2IhrzdMTdQiTcRTC71/LFXhJThVekJQFuIKny9gklAWLnvudYwbdAnpGNz7YaWhY9Yp6ba2eg==",
+                "id": "1-FXR1-99",
+                "channelPriority": "12",
+                "amount": "0",
+                "campaign": {
+                    "id": "1-8BSI8z",
+                    "code": "1-503535181",
+                    "number": "1-503535181",
+                    "name": "VENTA_SEGURO_360_FEBRERO2022_RTD_CLOUD_UAT",
+                    "type": "SEGURO_CREDITO_FULL",
+                    "startDate": "02/04/2022 11:19:06",
+                    "endDate": "31/12/2025",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-46N000",
+                        "code": "P00055",
+                        "number": "P00055",
+                        "name": "CREDITO FULL",
+                        "core": "JLT"
+                    }
+                },
+                "offer": {
+                    "id": "1-7M9KIM",
+                    "code": "1-460661278",
+                    "number": "1-460661278",
+                    "name": "OFERTA_SEGURO_360_RTD_UAT",
+                    "type": "",
+                    "source": "SIEBEL",
+                    "priority": "RTD",
+                    "description": "Oferta Seguro 360 para RTD"
+                },
+                "treatment": {
+                    "id": "1-7M9KJD",
+                    "code": "1-460661305",
+                    "number": "1-460661305",
+                    "name": "VENTA_SEGURO_360_RTD_UAT"
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 60,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Incremento de Línea",
+                    "detail": "Amplía tu línea de crédito a S/ 50,000.",
+                    "url": "interbank://internal/te-ofrecemos/incremento-linea/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/ae/ae0d0281-c79a-4628-b85e-b953b214e6ef/Incremento-de-Linea.png"
+                },
+                "transactionLead": "gRpShg5fTRCNFh6R3ko6TxWkBCQiB3dlrrw9SRsMFfiuTWmra0JmkJos3Cb1A/svNlu1ERtezcAQvEfohiECcwTiUmry/Jl/mvJ7lduKlCIlHuhUspRMV3/GQZgCOm95Vm9FLHXt7F/mmvjGUApNswRChGGQb5Pbyrn8Vka92nWuHSGLorIkAs4gA00o7s/0xGOEW/cce0oppZ209rbRyZw/nZ2Z/YoXCTDe/loWdhW/q/BLt0WME/FTPSbaNOLmj/gWlxGoNbc+5SDQLD84jB6/jEv6e8FSxAfeygtk+aT3fxnbxFUKzAFXDf13DqzD9BWGbABZNArTENSzG+xcZA==",
+                "id": "1-G3RB-85",
+                "channelPriority": "3",
+                "amount": "50000",
+                "campaign": {
+                    "id": "1-487EAD",
+                    "code": "1-255646741",
+                    "number": "1-255646741",
+                    "name": "APP_IL_CAMP",
+                    "type": "INCREMENTO_LINEA",
+                    "startDate": "03/14/2019 00:03:35",
+                    "endDate": "23/07/2099",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-1RDIVP",
+                        "code": "P00043",
+                        "number": "P00043",
+                        "name": "INCREMENTO DE LINEA",
+                        "core": "ADQ/SAT/NSAT"
+                    }
+                },
+                "offer": {
+                    "id": "1-487E9S",
+                    "code": "1-255646720",
+                    "number": "1-255646720",
+                    "name": "IL_APP_OF",
+                    "type": "10",
+                    "source": "SIEBEL",
+                    "priority": "RTD",
+                    "description": "IL APP OF"
+                },
+                "treatment": {
+                    "id": "1-487E9Z",
+                    "code": "1-255646727",
+                    "number": "1-255646727",
+                    "name": "IL TRA APP"
+                },
+                "detail": {
+                    "currencyCode": "604",
+                    "fmtAmount": "S/ 50,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "101",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "Visa Clásica",
+                            "description": "Visa Clásica Internacional",
+                            "number": "",
+                            "mark": "01",
+                            "type": "01"
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Cuenta Millonaria",
+                    "detail": "Podrás ser el próximo ganador del sorteo de un Depa + Auto + Estudios.",
+                    "url": "interbank://internal/te-ofrecemos/cuenta-millonaria/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/53/531ec917-a2ec-4818-b1b0-82e4f50f4eab/Cuenta-Millonaria.png"
+                },
+                "transactionLead": "Y/2zqYVV/+Foqhins//BA+rGkz2D9bekF5oHsUqL61UhbWqQJ11wr9gIKE5GyD349a5DZ+vXagwGHGM9w8EpEftj3s4jop0PlMp5JQtjK0DmhEcGvZRRgetdBToRkMx9yXzF2WffAAp9b2PK+39qJe7Uibfok3NfMt+kDxoMIEoFFLZeRLfW3RIBx+pkX/sh15js8EsB60c5ffLAEXSFBC9PO2SfNpLOFc/4Fduv8WNx0Oa1IKExYswMlbQkodQ8pK3IIlevoi0ZQ3/z4EX0o+zLFgS41wcXqYWLNcSOm6SQTDB3q86AjEyCUxAVwiKocMqgdquDwGxam1eKN9hIhA==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "CUENTA_MILLONARIA",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-2QIKK",
+                        "code": "",
+                        "number": "",
+                        "name": "CUENTA MILLONARIA",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 50,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Depósito a plazo",
+                    "detail": "Ábrela desde S/2,000 y obtén tasas exclusivas.",
+                    "url": "interbank://internal/te-ofrecemos/deposito-plazo/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/67/673b128d-0655-4093-8342-df9b751c0bc8/Deposito-a-Plazo.png"
+                },
+                "transactionLead": "Zm2CnaFwTMLSX3jITbXbquIw/37rGCwSzSKabyOgMVpKny8lF6thebUqVd8fkGATAhTlgwPDHpzkM21Nt/yPbJhk9o6QJ0A96mrZa9Q2xzCP1rrb2jPt3bAOytEjTVZY4zgdNtZr0KsLlYHrtFp94LTKp8hWqfjmD1GeLP9ECLGY/rGytcNuNfTyN2vfJ4bt/jktng3N2pSvO34D5289sDNZJ13Oq6cSl/0oKdMd6mtvGObR/lDxYw3iIH/KchZtGur2QePvKEk/eWwCjK5nnlPipaf0urpbcCKoPFw/ETOIWaPOxTr2C1osJZtoVWXTad28mqm9HjWoPgaJ1DR+9g==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "DEPOSITO_A_PLAZOS",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-1UWHSB",
+                        "code": "",
+                        "number": "",
+                        "name": "DEPOSITO A PLAZOS",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 50,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Pago automático",
+                    "detail": "Deja de estar pendiente del vencimiento de tus recibos.",
+                    "url": "interbank://internal/te-ofrecemos/pago-automatico/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/00/003180f1-98d8-4307-8ada-ad1a18803c80/Pago-Automatico.png"
+                },
+                "transactionLead": "IYlqU4b5Lo6Sm8OZdSgKboEVnq0gimNUdavaKbB4LA7VWQavu2+8aPCFJmq3/gJ3cIC6LnSlmZ4gHN2I3r6b+C30AMeZisacZx1YBY0IZcQeR0D9R4XkpYT1e/2hPNpbzqfVzexdV4rpRkCFl1EL1s4dmoX7Bd42NKhE5MNYjnnmGpmSsFHBFyNohWb3VRRFuWTS4vuA49xeOrNG4BOaSweE8v8yAH3tu1BRkC42kfpKKTRzbEBDEkhTxFpzbLUcq9HrZqht/2Tca5skybDnWJnzE/hC31xP3LZfyvOGTJhyfsB3gNmdu6mGVxSLWIM0VBqY5fCKSc452XIFoRwmvQ==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "PAGO_AUTOMATICO",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-1UWIBD",
+                        "code": "",
+                        "number": "",
+                        "name": "PAGO AUTOMATICO",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 50,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            },
+            {
+                "presentation": {
+                    "title": "Cuenta Simple",
+                    "detail": "Ábrela desde S/ 0 o US$ 0 y realiza pagos y transferencias interbancarias sin costo.",
+                    "url": "interbank://internal/te-ofrecemos/cuenta-simple/onboarding",
+                    "imagen": "https://content-us-1.content-cms.com/a9e7e55e-ca51-4f21-9a02-b12107b0c641/dxdam/8a/8a06fff6-3f58-43c5-9892-6e4955b51b01/Cuenta-Simple.png"
+                },
+                "transactionLead": "eoZvcS/ZRFg8/dwlmExBm+AWeltriqtfcsw8C0kfnX6QQxo+YSXZiHrPOA+pJ1fVaTGLPfHWmZQ+YVM8cjoVlUdZFeyo9NAgJ4ix+/gw102hkzbRdzp7ZMySsoIbwWI9r/AHuQqx88EOQrh799qHSAdOonuD0q3Mj1CrPfCasewTnO/38kC9B7VGykeEwU64ekJwkA/hj1mGbzFblZL9r8XNzKnjp7lL22fqHA4t43rChZpXvfwA6FNai+61M1OWpqZc2en52Qs02MTJI/3PqaWYVpIKV1v28c+i1a65iQ6DhdeO6yH2iLX96klRvEFjOm0G20oxdo6/TFvqldaVVQ==",
+                "id": "",
+                "channelPriority": "-1",
+                "amount": "0",
+                "campaign": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "CUENTA_SIMPLE",
+                    "startDate": "",
+                    "endDate": "",
+                    "objective": "",
+                    "priority": "",
+                    "product": {
+                        "id": "1-2QIKT",
+                        "code": "",
+                        "number": "",
+                        "name": "CUENTA SIMPLE",
+                        "core": ""
+                    }
+                },
+                "offer": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": "",
+                    "type": "",
+                    "source": "RTD",
+                    "priority": "RTD",
+                    "description": ""
+                },
+                "treatment": {
+                    "id": "",
+                    "code": "",
+                    "number": "",
+                    "name": ""
+                },
+                "detail": {
+                    "currencyCode": "",
+                    "fmtAmount": "S/ 50,000",
+                    "minimumAmount": "450",
+                    "associatedProduct": {
+                        "account": {
+                            "productCode": "",
+                            "subProductCode": "",
+                            "currencyCode": "",
+                            "number": ""
+                        },
+                        "creditCard": {
+                            "commercialDescription": "",
+                            "description": "",
+                            "number": "",
+                            "mark": "",
+                            "type": ""
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}
